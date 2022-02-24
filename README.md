@@ -1,3 +1,3 @@
-# Curso git
+# Curso git y github
 
-Curso Git Mastermind
+Curso Masetrmind
